@@ -1,0 +1,28 @@
+name: agameofbalance
+favicon: null
+layout_spectrum: 0.9651017775759101
+typography_spectrum: 0.7219499733764678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.827243632171303
+  lightness: 0.33563367696478963
+  saturation: 0.6783991740085185
+  rhythmicContrast: 0.47310399054549634
+purpose: []
